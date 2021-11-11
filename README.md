@@ -1,5 +1,5 @@
 
-<p align="center"><img width="100%" src="wallpapergithub.jpg" /></p>
+<p align="center"><img src="wallpapergithub.jpg" /></p>
 
 
 <p align="center">Hi everyone ! My name is <b>Joshua</b>, a french engineering student passionate about data science, artificial intelligence and mathematical-computer approach for problem solving. </p>
