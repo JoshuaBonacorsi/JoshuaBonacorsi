@@ -1,5 +1,5 @@
 
-<p align="center"><img width="100%" src="dataanalysis.gif" alt="gif" /></p>
+<p align="center"><img width="100%" src="blob:https://tenor.com/93d39a60-9bdb-4a11-8558-75158ed9e9fe" alt="gif" /></p>
 
 
 <p align="center">Hi everyone ! My name is <b>Joshua</b>, a french engineering student passionate about data science, artificial intelligence and mathematical-computer approach for problem solving. </p>
