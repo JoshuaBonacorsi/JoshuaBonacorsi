@@ -16,14 +16,10 @@
 </p>
 
 <p align="center">Hi everyone ! My name is <b>Joshua</b>, a french engineering student passionate about data science, artificial intelligence and mathematical-computer approach for problem solving. </p>
-<p align="center">
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nawfel-bacha/)](https://www.linkedin.com/in/nawfel-bacha/)
+
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nayunhwan.dev@gmail.com)](mailto:nbacha59@gmail.com)
-</p>
-<p align="center">
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nawfel-bacha/)](https://www.linkedin.com/in/nawfel-bacha/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nayunhwan.dev@gmail.com)](mailto:nbacha59@gmail.com)
-</p>
 
 ---
 
