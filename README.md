@@ -15,10 +15,10 @@
 me = Student("Joshua", "BONACORSI", "bonacorsijpro@gmail.com")
 me.addInterests( [ "Data Science","Data & Analytics", "Ai & Machine Learning" ] )
 
-length, begin = "Between 18 and 20 weeks", "starting on April 11, 2022"
+length, begin = "between 18 and 20 weeks", "starting on April 11, 2022"
 
 for i in me.getInterests():
-    listen_to_me = f"looking for a {length} in {i} Python internship {begin} !"
+    listen_to_me = "I am looking for an internship in {i} lasting {length} and {begin} !"
     print( listen_to_me.upper() )
     
 # If you understand the output of this code and you're able to help me, then contact me ;)
