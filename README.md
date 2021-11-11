@@ -1,9 +1,9 @@
 
 <p align="center"><img src="wallpapergithub.jpg" /></p>
 
-<h1 style="font-size:20vw"><p align="center"><text font-size="16"> Hi everyone ! My name is <b>Joshua</b></text></p></h1>
+<h1 style="font-size:20vw"><p align="center"><text font-size="16"> Hi everyone, my name is <b>Joshua</b> !</text></p></h1>
 
-<h3 style="font-size:20vw"><p align="center"> French engineering student passionate about data science, artificial intelligence and mathematical-computer approach for problem solving. </p></h1>  
+<h3 style="font-size:20vw"><p align="center"> I'm a French engineering student passionate about data science, artificial intelligence and mathematical-computer approach for problem solving. </p></h1>  
 
 ## Languages & Tools
 <p align="center">
