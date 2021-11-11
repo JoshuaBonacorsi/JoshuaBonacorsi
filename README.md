@@ -1,13 +1,29 @@
 
 <p align="center"><img src="wallpapergithub.jpg" /></p>
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nawfel-bacha/)](https://www.linkedin.com/in/nawfel-bacha/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nayunhwan.dev@gmail.com)](mailto:nbacha59@gmail.com)
+
+<h1 style="font-size:20vw"><p align="center"><text font-size="16"> Hi I'm Joshua and i'm from Paris :) </text></p></h1>
+
+<h3 style="font-size:20vw"><p align="center"> Engineering student in Applied Mathematics and Computer Science at CY Tech ( a french "Grande Ecole" ) in France.</p></h1>  
+
+## Languages & Tools
+<p align="center">
+      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="75" height="72"/>
+      <img src="https://www.vectorlogo.zone/logos/r-project/r-project-official.svg" alt="r" width="55" height="55"/> 
+      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" alt="c" width="50" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="45"/>
+</p>
 
 <p align="center">Hi everyone ! My name is <b>Joshua</b>, a french engineering student passionate about data science, artificial intelligence and mathematical-computer approach for problem solving. </p>
 <p align="center">📧 Email : bonacorsijpro@gmail.com 📧</p>
 <p align="center">💼 Linkedin : <a href="https://www.linkedin.com/in/joshuabonacorsi">Joshua BONACORSI</a> 💼 </p>
 
-
 ---
+
 :mag: __Currently looking for an internship...__
 
 ```python
@@ -27,18 +43,3 @@ for i in me.getInterests():
     ... <br>
      <i>"Good luck is a lazy man's estimate of a worker's success." - Unknown author</i>
 </p>
-
-<!--
-**JoshuaBonacorsi/JoshuaBonacorsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: 
-- ⚡ Fun fact: ...
--->
