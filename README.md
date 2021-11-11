@@ -15,8 +15,6 @@
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="45"/>
 </p>
 
-<p align="center">Hi everyone ! My name is <b>Joshua</b>, a french engineering student passionate about data science, artificial intelligence and mathematical-computer approach for problem solving. </p>
-
 ---
 
 :mag: __Currently looking for an internship...__
@@ -38,6 +36,8 @@ for i in me.getInterests():
     ... <br>
      <i>"Good luck is a lazy man's estimate of a worker's success." - Unknown author</i>
 </p>
+
+## How to contact me ?
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nawfel-bacha/)](https://www.linkedin.com/in/nawfel-bacha/)
 
