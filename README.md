@@ -39,6 +39,6 @@ for i in me.getInterests():
 
 ## How to contact me ?
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joshuabonacorsi/)](https://www.linkedin.com/in/nawfel-bacha/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joshuabonacorsi/)](https://www.linkedin.com/in/joshuabonacorsi/)
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nayunhwan.dev@gmail.com)](mailto:bonacorsijpro@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bonacorsijpro@gmail.com)](mailto:bonacorsijpro@gmail.com)
