@@ -17,10 +17,6 @@
 
 <p align="center">Hi everyone ! My name is <b>Joshua</b>, a french engineering student passionate about data science, artificial intelligence and mathematical-computer approach for problem solving. </p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nawfel-bacha/)](https://www.linkedin.com/in/nawfel-bacha/)
-
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nayunhwan.dev@gmail.com)](mailto:nbacha59@gmail.com)
-
 ---
 
 :mag: __Currently looking for an internship...__
@@ -42,3 +38,7 @@ for i in me.getInterests():
     ... <br>
      <i>"Good luck is a lazy man's estimate of a worker's success." - Unknown author</i>
 </p>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nawfel-bacha/)](https://www.linkedin.com/in/nawfel-bacha/)
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nayunhwan.dev@gmail.com)](mailto:nbacha59@gmail.com)
