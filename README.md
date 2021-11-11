@@ -1,5 +1,5 @@
 
-<p align="center"><div class="tenor-gif-embed" data-postid="23151718" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/data-analysis-graph-chart-gif-23151718">Data Analysis GIF</a>from <a href="https://tenor.com/search/data-gifs">Data GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script></p>
+<p align="center"><img width="100%" src="dataanalysis.gif" alt="gif" /></p>
 
 
 <p align="center">Hi everyone ! My name is <b>Joshua</b>, a french engineering student passionate about data science, artificial intelligence and mathematical-computer approach for problem solving. </p>
