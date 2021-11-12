@@ -5,16 +5,6 @@
 
 <h3 style="font-size:20vw"><p align="center"> I'm a French engineering student passionate about data science, artificial intelligence and mathematical-computer approach for problem solving. </p></h1>  
 
-## Languages & Tools
-<p align="center">
-      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="75" height="72"/>
-      <img src="https://www.vectorlogo.zone/logos/r-project/r-project-official.svg" alt="r" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" alt="c" width="50" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="45"/>
-</p>
-
 ---
 
 :mag: __Currently looking for an internship...__
@@ -41,3 +31,15 @@ for i in me.getInterests():
 
 <p align="center">📧 Email : bonacorsijpro@gmail.com 📧</p>
 <p align="center">💼 LinkedIn : <a href="https://www.linkedin.com/in/joshuabonacorsi">Joshua BONACORSI</a> 💼 </p>
+
+## Languages & Tools
+<p align="center">
+      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="75" height="72"/>
+      <img src="https://www.vectorlogo.zone/logos/r-project/r-project-official.svg" alt="r" width="55" height="55"/> 
+      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" alt="c" width="50" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="45"/>
+</p>
+
+
