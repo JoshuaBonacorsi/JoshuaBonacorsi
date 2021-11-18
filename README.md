@@ -1,7 +1,7 @@
 
 <p align="center"><img src="wallpapergithub.jpg" /></p>
 
-<h1 style="font-size:20vw"><p align="center"><text font-size="16"> Bienvenue sur ma page Github, je suis <b>Joshua</b> !</text></p></h1>
+<h1 style="font-size:20vw"><p align="center"><text font-size="16"> Bienvenue sur ma page Github !</text></p></h1>
 
 <h3 style="font-size:20vw"><p align="center"> Je suis actuellement en seconde année d'école d'ingénieur en france et je cherche à me spécialiser en Data Science & Intelligence artificielle, j'apprécie également tout ce qui touche au business ( management, gestion financière, économie, marketing...) </p></h1>  
 
