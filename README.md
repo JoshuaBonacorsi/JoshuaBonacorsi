@@ -1,3 +1,5 @@
+<img src="wp4108462.jpg">
+
 ## How to contact me ?
 
 <p align="center">📧 Email : bonacorsijpro@gmail.com 📧</p>
